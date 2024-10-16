@@ -8,13 +8,13 @@ import sqlite3
 logging.basicConfig(level=logging.INFO)
 
 # Токен для бота
-TOKEN = '8171076234:AAGbqGifwyKeBD3ugMN62PLVY2pgQkjfFoM'
+TOKEN = 'YOUR_BOT_TOKEN'
 
 # ID оператора поддержки
-OPERATOR_CHAT_ID = 6422350149
+OPERATOR_CHAT_ID = none
 
 # ID последнего пользователя
-LAST_USER_CHAT_ID = 1019243445
+LAST_USER_CHAT_ID = none
 
 # Функция для получения вопросов из базы данных
 def get_faq_questions():

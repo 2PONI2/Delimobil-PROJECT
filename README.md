@@ -19,7 +19,7 @@
 1. Клонируйте репозиторий и установите необходимые зависимости:
 
    ```bash
-   git clone https://github.com/ваш-логин/telegram-faq-bot.git
+   git clone https://github.com/2PONI2/telegram-faq-bot.git
    cd telegram-faq-bot
    pip install -r requirements.txt
 
